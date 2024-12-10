@@ -1,2 +1,1 @@
-# Hello_world
-This respository is for practicing the GitHub flow
+Hi everyone, my name is Shameer Bashir, doing Phd from IIT Jammu
